@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/un-eclair-dans-la-nuit/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Un Éclair Dans La Nuit](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/un-eclair-dans-la-nuit/) |
+| **Get License** | [Obtain a Music License for Un Éclair Dans La Nuit](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/un-eclair-dans-la-nuit/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> J'ai capté ton regard, le temps s'arrête dans le noir
+> Ton parfum de luxe, je suis captif de ton histoire
+> Tu es ma fièvre, un éclair pur dans la nuit
+> Viens près de moi, et emporte-moi loin d'ici
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
