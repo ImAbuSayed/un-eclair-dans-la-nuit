@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/un-eclair-dans-la-nuit/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Un Éclair Dans La Nuit](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/un-eclair-dans-la-nuit/) |
+| **Get License** | [License this song: Un Éclair Dans La Nuit](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/un-eclair-dans-la-nuit/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `695977ccdbb5524facf1b6e4af60cbeb848b31889f86ac9882a8c08041ff797e` |
 | **Timestamp** | June 26, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
